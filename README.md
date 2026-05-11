@@ -5,7 +5,7 @@ Final-year Informatics and Telematics student at Harokopio University of Athens
 </h3>
 
 <p align="center">
-Passionate about software development, web technologies, and FinTech.
+Passionate about software development, web technologies and FinTech.
 </p>
 
 <p align="center">
