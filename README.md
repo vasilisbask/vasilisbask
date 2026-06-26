@@ -5,13 +5,17 @@ Final-year Informatics and Telematics student at Harokopio University of Athens
 </h3>
 
 <p align="center">
-Passionate about software development, web technologies and FinTech.
+Passionate about software development, backend engineering, modern web technologies, and FinTech.
 </p>
 
 <p align="center">
-💻 Python • Java • Spring MVC • JavaScript • SQL
+💻 Java • Python • React • Spring MVC • SQL
 </p>
 
 <p align="center">
-📫 Contact: <b>vassilis.bass@gmail.com</b>
+🔗 <a href="https://www.linkedin.com/in/vasilis-baskairon/">LinkedIn</a>
+</p>
+
+<p align="center">
+📫 vassilis.bass@gmail.com
 </p>
