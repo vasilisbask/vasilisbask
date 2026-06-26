@@ -13,9 +13,9 @@ Passionate about software development, backend engineering, modern web technolog
 </p>
 
 <p align="center">
-🔗 <a href="https://www.linkedin.com/in/vasilis-baskairon/">LinkedIn</a>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/vasilis-baskairon/">linkedin.com/in/vasilis-baskairon</a>
 </p>
 
 <p align="center">
-📫 vassilis.bass@gmail.com
+📫 Email: vassilis.bass@gmail.com
 </p>
